@@ -10,8 +10,8 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/LEGEND-OS/LEGENDBOT/",
-  "website": "https://github.com/LEGEND-OS/LEGENDBOT/",
+  "repository": "https://github.com/Lord-DSP3/legendbot",
+  "website": "https://github.com/Lord-DSP3/legendbot",
   "success_url": "https://t.me/Legend_Userbot",
   "env": {
     "ENV": {
@@ -20,42 +20,42 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name. By default it is LEGEND User",
-      "value": "Lêɠêɳ̃dẞøY",
+      "value": "『𝓛𝓸𝓻𝓭 𝕯𝕾𝕻 𝟑 』",
       "required": false
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .alive Or .legend  Command.",
-      "value": "Lêɠêɳ̃dẞø† is Online",
+      "value": "𝕃𝕠𝕣𝕕_𝔻𝕊ℙ_𝟛 is Online",
       "required": false
     },
     "ABUSE": {
       "description": " Set ON or OFF",
-      "value": "",
+      "value": "ON",
       "required" :true
     },
     "EXTRA_PLUGIN": {
       "description": "Set ON or OFF",
-      "value": "",
+      "value": "ON",
       "required" :true
     },
     "SPAM": {
       "description": "Set ON or OFF",
-      "value": "",
+      "value": "ON",
       "required" :true
     },
     "ASSISTANT": {
       "description": "Set ON or OFF",
-      "value": "",
+      "value": "ON",
       "required" :true
     },
     "YOUR_GROUP": {
       "description": "Set Ur Group Username",
-      "value": "@Legend_Userbot",
+      "value": "@A_invitelink",
       "required": false
     },
     "YOUR_CHANNEL": {
       "description": "Set Ur Channel Username",
-      "value": "@Official_LegendBot",
+      "value": "@Anime_Hub_Fz",
       "required": false
     },
     "BOY_OR_GIRL": {
@@ -65,52 +65,56 @@
     },
     "AWAKE_PIC": {
       "description": "Put here any telegraph media link for awake pic in .awake Or .bot command.",
-      "value": "",
+      "value": "https://telegra.ph/file/c0e7b725fcbd137fc4a5c.jpg",
       "required": false
     },
     "OP_PIC": {
       "description": "Put here any telegraph media link for OP pic in .op command.",
-      "value": "",
+      "value": "https://telegra.ph/file/d366dea65acdd9d31bdac.jpg",
       "required": false
     },
     "PING_PIC": {
       "description": "Put here any telegraph media link for PING pic in .ping command.",
-      "value": "",
+      "value": "https://telegra.ph/file/a4e875edfda5868cb4452.jpg",
       "required": false
     },
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .alive.",
-      "value": "",
+      "value": "https://telegra.ph/file/51bd91849417728e67532.jpg",
       "required": false
     },
     "ALIVE_EMOJI": {
       "description": "Put here any emoji. Which Will be Show When U Do .alive.",
-      "value": "",
+      "value": "🩸",
       "required": false
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "𝙸 𝚊𝚖 𝙻𝚎𝚐𝚎𝚗𝚍.",
+      "value": "@Lord_DSP_3",
       "required": true
     },
     "PM_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "",
+      "value": "https://telegra.ph/file/3aa12163174d85287b87f.jpg",
       "required": false
     },
     "PM_MSG": {
       "description": "Enter Your custom pm permit msg.",
-      "value": "нєℓℓο ѕιя / мιѕѕ,\nρℓєαѕє ∂οи'τ τяγ το ѕραм мγ мαѕτєя οτнєяωιѕє υ ωιℓℓ ϐℓοϲκє∂ ϐγ 𝖑𝖊ɠêɳ̃dẞø✞︎ 🇮🇳.\nℑ ωιℓℓ яєρℓγ υ αƒτєя ϲοмє ϐαϲκ οиℓιиє,\nτнαиκγου!",
+      "value": "𝙊𝙞𝙞 𝙣𝙤𝙧𝙢𝙞𝙚, 
+
+𝙃𝙤𝙥𝙚 𝙮𝙤𝙪 𝙙𝙞𝙙𝙣'𝙩 𝙢𝙚𝙨𝙨𝙖𝙜𝙚 𝙢𝙚 𝙛𝙤𝙧 𝙮𝙤𝙪𝙧 𝙪𝙨𝙚𝙡𝙚𝙨𝙨 𝙩𝙖𝙡𝙠𝙨 𝙖𝙣𝙙... 
+
+𝘿𝙤 𝙣𝙤𝙩 𝙩𝙧𝙮 𝙩𝙤 𝙎𝙋𝘼𝙈 𝙞𝙣 𝙢𝙮 𝘿𝙈, 𝙤𝙧 𝙚𝙡𝙨𝙚 𝙮𝙤𝙪'𝙡𝙡 𝙗𝙚 𝙗𝙡𝙤𝙘𝙠𝙚𝙙 🍃",
       "required": false
     },
     "MAX_FLOOD_IN_PM": {
       "description": "Now U Can Set Custom Flood In DM / PM by default it is 5",
-      "value": "5",
+      "value": "3",
       "required": true
     },
     "LOGGER_ID": {
       "description": "Create a private channel. And get it's id from @missrose_bot and paste here. Value should start with -100",
-      "value": "",
+      "value": "-1001649033559",
       "required": true
     },
     "APP_ID": {
@@ -119,7 +123,7 @@
     },
     "SUDO_USERS": {
       "description": "Enter your friends user id to to give him bot full access",
-      "value": "",
+      "value": "1302714537",
       "required": false
     },
     "SUDO_COMMAND_HAND_LER": {
@@ -129,7 +133,7 @@
     },
     "COMMAND_HAND_LER": {
       "description": "U can Change Ur command Handler By Default it is (.)",
-      "value": ".",
+      "value": ",",
       "required": true
       },
     "API_HASH": {
@@ -138,7 +142,7 @@
     },
     "PLUGIN_CHANNEL": {
       "description": "Copy Group Id And paste here To Get Plugin Channel ID copy and paste here",
-      "value": ""
+      "value": "-1001649033559"
     }, 
     "LEGEND_STRING": {
       "description": "Get this value by running https://repl.it/@KrishnaJaiswal1/LEGENDBOT#main.py ",
@@ -174,12 +178,12 @@
     },
     "EMOJI_IN_HELP1": {
       "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "",
+      "value": "🎴",
       "required": false
     },
     "EMOJI_IN_HELP2": {
       "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "",
+      "value": "🎋",
       "required": false
     },
     "PM_DATA": {
